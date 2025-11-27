@@ -14,3 +14,7 @@ Students Data: [data-ev.xlsx](https://github.com/user-attachments/files/23785168
 Server: aws-1-ap-south-1.pooler.supabase.com
 
 Database: postgres
+
+Username: postgres.zqehkemtgakpayanpvnh
+
+Password: Admin@Admin1234
